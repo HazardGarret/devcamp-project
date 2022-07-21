@@ -1,0 +1,39 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    font-size: 22px;
+    background-color: rgb(54, 54, 54);
+    color: azure;
+}
+
+.footer > .teams {
+    padding: 18px 5px 18px 40px;
+    border-style: solid;
+    border-radius: 1px;
+    border-color: gray;
+    width: 450px;
+}
+
+.footer > .education {
+    padding: 18px 5px 18px 40px;
+    border-style: solid;
+    border-radius: 1px;
+    border-color: gray;
+    width: 450px;
+}
+
+.footer > .privacy {
+    padding: 18px 5px 18px 40px;
+    border-style: solid;
+    border-radius: 1px;
+    border-color: gray;
+    width: 450px;
+}
+
+.footer > .writing {
+    padding: 18px 25px 18px 40px;
+    border-style: solid;
+    border-radius: 1px;
+    border-color: gray;
+    width: 450px;
+}

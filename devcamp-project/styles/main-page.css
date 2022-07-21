@@ -1,0 +1,16 @@
+.main-page {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(31, 31, 36);
+    padding: 10px 15px 10px 15px;
+    box-shadow: inset 0px 0px 10px rgba(0,0,0,0.9);
+}
+
+.main-page > .left-side {
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 40px 30px 30px 40px;
+}
+
+
+

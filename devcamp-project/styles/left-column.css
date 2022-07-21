@@ -1,0 +1,72 @@
+.main-page > .left-side > .first-paragraph {
+    color: rgb(201, 206, 206);
+    font-family: 'Lato', sans-serif;
+    font-size: 50px;
+}
+
+.main-page > .left-side > .first-paragraph > .first-line {
+    display: flex;
+    padding: 3px 3px 3px 3px;
+    border-radius: 3px;
+}
+
+.main-page > .left-side > .first-paragraph > .second-line {
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 3px 3px 3px;
+    border-radius: 3px;
+
+}
+
+p {
+    word-spacing: 30px;
+}
+
+.main-page > .left-side > .first-paragraph > .third-line {
+    display: flex;
+
+}
+
+.main-page > .left-side > .first-paragraph > .third-line > .wave {
+    display: flex;
+    justify-content: space-between;
+    color:rgb(236, 202, 5);
+}
+
+.main-page > .left-side > .second-paragraph {
+    color: rgb(141, 145, 145);
+    font-family: 'Lato', sans-serif;
+    font-size: 45px;
+}
+
+.main-page > .left-side > .account-options {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 3px 20px 5px;
+    width: 480px;
+}
+
+.main-page > .left-side > .account-options > .sign-up-option {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: "Ubuntu Condensed", sans-serif;
+    font-size: 37px;
+    padding: 10px 25px 10px 18px;
+    color: black;
+    background-color: rgb(109, 182, 109);
+    border-radius: 3px;
+}
+
+.main-page > .left-side > .account-options > .learn-more {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: "Ubuntu Condensed", sans-serif;
+    font-size: 37px;
+    padding: 10px 25px 10px 18px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border-radius: 3px;
+
+}

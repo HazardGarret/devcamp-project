@@ -1,0 +1,20 @@
+.main-page > .right-side > .writing {
+    display: flex;
+    padding: 20px 3px 8px 5px;
+}
+
+.main-page > .right-side > .writing > .this-is {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: azure;
+}
+
+.main-page > .right-side > .writing > .codepen-projects {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px 3px 3px 3px;
+    border-radius: 3px;
+    color: rgb(6, 172, 214);
+}

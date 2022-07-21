@@ -1,0 +1,80 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 5px 15px 15px;
+    background-color: #030307;
+    width: 1900px;
+    height: 40px;
+    margin: 0;
+}
+
+.navbar > .navbar-buttons > .explore {
+    color:rgb(253, 221, 42);
+    font-family: "Ubuntu Condensed", sans-serif;
+    width: 280px;
+    font-size: 16px;
+}
+
+.navbar > .navbar-buttons > .options {
+    font-family: "Ubuntu Condensed", sans-serif;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #ffffff;
+
+}
+
+.navbar > .navbar-buttons > .options > .pens {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 18px;
+    padding: 3px 3px 3px 3px;
+    border-radius: 3px;
+    font-weight: bold;
+    border-color:rgb(51, 50, 50)
+}
+
+.navbar > .navbar-buttons > .options > .projects {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 18px;
+    padding: 3px 3px 3px 3px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.navbar > .navbar-buttons > .options > .posts {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 18px;
+    padding: 3px 3px 3px 3px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.navbar > .navbar-buttons > .options > .collections {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 18px;
+    padding: 3px 3px 3px 3px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.navbar > .navbar-buttons > .options > .spark {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color:rgb(141, 140, 140);
+    font-size: 18px;
+    padding: 3px 3px 3px 3px;
+    border-radius: 3px;
+    width: 57px;
+}
+
+
+
